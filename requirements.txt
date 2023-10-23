@@ -1,0 +1,13 @@
+numpy
+scipy
+pandas
+scikit-learn
+matplotlib
+seaborn
+wbdata
+missingpy
+pymongo
+dnspython
+jupyter
+jupyterlab
+mysql-connector-python
